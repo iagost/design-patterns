@@ -6,6 +6,6 @@ public class Polo implements Carro{
 
 	@Override
 	public void fabricar() {
-		System.out.println("Polo fabricado.");
+		System.out.println("Mais um Polo fabricado.");
 	}
 }
